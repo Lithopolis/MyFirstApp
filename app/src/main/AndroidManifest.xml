@@ -24,6 +24,10 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.mycompany.myfirstapp.MainActivity" />
         </activity>
+        <activity
+            android:name=".ButtonActivity"
+            android:label="@string/title_activity_button" >
+        </activity>
     </application>
 
 </manifest>
